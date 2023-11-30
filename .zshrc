@@ -11,6 +11,7 @@ alias gp="git push"
 alias dr="dotnet run"
 alias db="dotnet build"
 
+# neovim
 alias nv="nvim"
 
 # go to previous dir
